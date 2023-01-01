@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.bg-container {
+  width: 100%;
+  background-color: #475569;
+  padding: 40px;
+}
+
+.inner-container {
+  width: 100%;
+  height: auto;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.inner-container h1 {
+  color: #fff;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+
+.inner-container input {
+  margin: 10px 5px 10px 0px;
+  width: 15px;
+  height: 15px;
+  border: none;
+  outline: none;
+}
+
+.inner-container label {
+  color: #fff;
+  font-family: 'Roboto';
+}
